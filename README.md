@@ -1,6 +1,6 @@
 # Spic-N-Rice
-I have created a static website for restaurant. I used Html, css, and azure static web app and also azure storoge accounts.
-In tis website you can find the menu of our restaurant , higlights of restaurant and also you can contact us.
+I have created a static website for restaurant. I used Html, css, and azure static web app and also azure storage accounts. 
+In this website you can find the menu of our restaurant , highlights of restaurant and also you can contact us.
 I used Azure static web app for hosting and storage accounts for storing the source code.
 
 Project link( demo link): https://wonderful-glacier-0d5f75f10.2.azurestaticapps.net
